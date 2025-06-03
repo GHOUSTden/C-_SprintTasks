@@ -1,0 +1,7 @@
+C:\Users\GHOUS\source\repos\C#_Sprint\C#_Sprint(Task_4.1)\C#_Sprint(Task_4.1)\bin\Debug\C#_Sprint(Task_4.1).exe.config
+C:\Users\GHOUS\source\repos\C#_Sprint\C#_Sprint(Task_4.1)\C#_Sprint(Task_4.1)\bin\Debug\C#_Sprint(Task_4.1).exe
+C:\Users\GHOUS\source\repos\C#_Sprint\C#_Sprint(Task_4.1)\C#_Sprint(Task_4.1)\bin\Debug\C#_Sprint(Task_4.1).pdb
+C:\Users\GHOUS\source\repos\C#_Sprint\C#_Sprint(Task_4.1)\C#_Sprint(Task_4.1)\obj\Debug\C#_Sprint(Task_4.1).csproj.AssemblyReference.cache
+C:\Users\GHOUS\source\repos\C#_Sprint\C#_Sprint(Task_4.1)\C#_Sprint(Task_4.1)\obj\Debug\C#_Sprint(Task_4.1).csproj.CoreCompileInputs.cache
+C:\Users\GHOUS\source\repos\C#_Sprint\C#_Sprint(Task_4.1)\C#_Sprint(Task_4.1)\obj\Debug\C#_Sprint(Task_4.1).exe
+C:\Users\GHOUS\source\repos\C#_Sprint\C#_Sprint(Task_4.1)\C#_Sprint(Task_4.1)\obj\Debug\C#_Sprint(Task_4.1).pdb
